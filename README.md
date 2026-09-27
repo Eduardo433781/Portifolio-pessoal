@@ -54,15 +54,15 @@ A estrutura inicial do projeto poderá ser organizada da seguinte forma:
 
 ```text
 portfolio/
+│ README.md
 │
-├── img
+├── foto.jpg
 │ 
 ├── index.html
 │
 ├── css/
 │   └── style.css
 │
-└── README.md
 ```
 
 A estrutura poderá ser modificada conforme o projeto crescer e novas páginas e recursos forem adicionados.
