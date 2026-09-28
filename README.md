@@ -60,9 +60,7 @@ portfolio/
 │ 
 ├── index.html
 │
-├── css/
-│   └── style.css
-│
+├── style.css
 ```
 
 A estrutura poderá ser modificada conforme o projeto crescer e novas páginas e recursos forem adicionados.
